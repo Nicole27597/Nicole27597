@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nicole27597
+- 👋 Hi, I’m Nicole
 - 👀 I’m interested in Web Design and Database Management.
 - 🌱 I’m currently learning front-end, back-end and database coding
 - 📫 How to reach me nicole.darcy27@gmail.com
